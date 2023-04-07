@@ -12,25 +12,39 @@ Open a text editor such as Notepad or Sublime Text.
 Type the following code:
 php
 Copy code
+
 <!DOCTYPE html>
+
 <html>
+	
 <head>
+	
 	<title>My First HTML Page</title>
+	
 </head>
+	
 <body>
+	
 	<h1>Hello, World!</h1>
+	
 	<p>This is my first HTML page.</p>
+	
 </body>
+	
 </html>
 Save the file with a .html extension.
 To style this page using CSS, you can add a style block in the head section of the HTML file. Here's an example:
 
-php
+
 Copy code
+
 <!DOCTYPE html>
+
 <html>
+	
 <head>
 	<title>My First HTML Page</title>
+	
 	<style>
 		h1 {
 			color: blue;
@@ -41,12 +55,16 @@ Copy code
 			font-size: 16px;
 		}
 	</style>
+	
 </head>
 <body>
 	<h1>Hello, World!</h1>
+	
 	<p>This is my first HTML page.</p>
+	
 </body>
 </html>
+
 This will change the color and font size of the h1 and p elements on the page.
 
 Conclusion
