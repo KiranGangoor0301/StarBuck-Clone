@@ -35,7 +35,6 @@ Copy code
 Save the file with a .html extension.
 To style this page using CSS, you can add a style block in the head section of the HTML file. Here's an example:
 
-
 Copy code
 
 <!DOCTYPE html>
